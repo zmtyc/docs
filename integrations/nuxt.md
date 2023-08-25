@@ -17,7 +17,7 @@ Within your `nuxt.config.js` add the following.
 
 ```js nuxt.config.js
 export default {
-  buildModules: [
+  modules: [
     'nuxt-windicss',
   ],
 }
